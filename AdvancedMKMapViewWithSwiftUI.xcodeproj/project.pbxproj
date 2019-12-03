@@ -16,6 +16,7 @@
 		1DCC4C2F2395AA3800868546 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCC4C2E2395AA3800868546 /* MapView.swift */; };
 		1DCC4C752397026B00868546 /* MKPointAnnotation-ObservableObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCC4C742397026B00868546 /* MKPointAnnotation-ObservableObject.swift */; };
 		1DCC4C772397032700868546 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCC4C762397032700868546 /* EditView.swift */; };
+		1DCC4C7923970D4400868546 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCC4C7823970D4400868546 /* Result.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		1DCC4C2E2395AA3800868546 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		1DCC4C742397026B00868546 /* MKPointAnnotation-ObservableObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MKPointAnnotation-ObservableObject.swift"; sourceTree = "<group>"; };
 		1DCC4C762397032700868546 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
+		1DCC4C7823970D4400868546 /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				1DCC4C2E2395AA3800868546 /* MapView.swift */,
 				1DCC4C742397026B00868546 /* MKPointAnnotation-ObservableObject.swift */,
 				1DCC4C762397032700868546 /* EditView.swift */,
+				1DCC4C7823970D4400868546 /* Result.swift */,
 			);
 			path = AdvancedMKMapViewWithSwiftUI;
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 				1DCC4C2F2395AA3800868546 /* MapView.swift in Sources */,
 				1DCC4C772397032700868546 /* EditView.swift in Sources */,
 				1DCC4C1D2395AA0A00868546 /* SceneDelegate.swift in Sources */,
+				1DCC4C7923970D4400868546 /* Result.swift in Sources */,
 				1DCC4C752397026B00868546 /* MKPointAnnotation-ObservableObject.swift in Sources */,
 				1DCC4C1F2395AA0A00868546 /* ContentView.swift in Sources */,
 			);
